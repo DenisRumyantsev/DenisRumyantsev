@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **YML _MARKDOWN_ JSON** ~~-BACKEND-~~ FULLSTACK DEVOPS GROUP DATA+AI ⚡`PRINCIPAL`⚡ SOFTWARE ~~-JUNIOR-~~ SENIOR ENGENEER `II`
+I am **YML _MARKDOWN_ JSON** ~~-BACKEND-~~ FULLSTACK *DEVOPS* GROUP DATA+AI ⚡`PRINCIPAL`⚡ SOFTWARE ~~-JUNIOR-~~ SENIOR ENGENEER `II`
 
 <!--
 **DenisRumyantsev/DenisRumyantsev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
